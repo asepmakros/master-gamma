@@ -1,0 +1,347 @@
+[16-Sep-2023 16:34:58 Asia/Jakarta] PHP Warning:  include(../../koneksi/koneksi.php): failed to open stream: No such file or directory in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[16-Sep-2023 16:34:58 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../koneksi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[16-Sep-2023 16:34:58 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 7
+[16-Sep-2023 16:34:58 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 9
+[16-Sep-2023 16:36:24 Asia/Jakarta] PHP Warning:  include(../../koneksi/koneksi.php): failed to open stream: No such file or directory in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[16-Sep-2023 16:36:24 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../koneksi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[16-Sep-2023 16:36:24 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 7
+[16-Sep-2023 16:36:24 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 9
+[16-Sep-2023 16:38:48 Asia/Jakarta] PHP Warning:  include(../../koneksi/koneksi.php): failed to open stream: No such file or directory in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[16-Sep-2023 16:38:48 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../koneksi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[16-Sep-2023 16:38:48 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 7
+[16-Sep-2023 16:38:48 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 9
+[16-Sep-2023 16:39:08 Asia/Jakarta] PHP Warning:  include(../../koneksi/koneksi.php): failed to open stream: No such file or directory in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[16-Sep-2023 16:39:08 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../koneksi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[16-Sep-2023 16:39:08 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 7
+[16-Sep-2023 16:39:08 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 9
+[16-Sep-2023 16:39:46 Asia/Jakarta] PHP Warning:  include(../../koneksi/koneksi.php): failed to open stream: No such file or directory in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[16-Sep-2023 16:39:46 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../koneksi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[16-Sep-2023 16:39:46 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 7
+[16-Sep-2023 16:39:46 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 9
+[16-Sep-2023 16:40:02 Asia/Jakarta] PHP Warning:  include(../../koneksi/koneksi.php): failed to open stream: No such file or directory in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[16-Sep-2023 16:40:02 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../koneksi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[16-Sep-2023 16:40:02 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 7
+[16-Sep-2023 16:40:02 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 9
+[16-Sep-2023 16:41:38 Asia/Jakarta] PHP Warning:  include(../../koneksi/koneksi.php): failed to open stream: No such file or directory in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[16-Sep-2023 16:41:38 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../koneksi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[16-Sep-2023 16:41:38 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 11
+[16-Sep-2023 16:41:38 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 13
+[16-Sep-2023 16:41:42 Asia/Jakarta] PHP Warning:  include(../../koneksi/koneksi.php): failed to open stream: No such file or directory in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[16-Sep-2023 16:41:42 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../koneksi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[16-Sep-2023 16:41:42 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 11
+[16-Sep-2023 16:41:42 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 13
+[16-Sep-2023 16:44:28 Asia/Jakarta] PHP Warning:  include(../../koneksi/koneksi.php): failed to open stream: No such file or directory in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[16-Sep-2023 16:44:28 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../koneksi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[16-Sep-2023 16:44:28 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 11
+[16-Sep-2023 16:44:28 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 13
+[16-Sep-2023 16:45:06 Asia/Jakarta] PHP Warning:  include(../../koneksi/koneksi.php): failed to open stream: No such file or directory in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[16-Sep-2023 16:45:06 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../koneksi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[16-Sep-2023 16:45:06 Asia/Jakarta] PHP Warning:  include(form/form_produk_keluar.php): failed to open stream: No such file or directory in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 16
+[16-Sep-2023 16:45:06 Asia/Jakarta] PHP Warning:  include(): Failed opening 'form/form_produk_keluar.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 16
+[16-Sep-2023 16:46:25 Asia/Jakarta] PHP Warning:  include(../../koneksi/koneksi.php): failed to open stream: No such file or directory in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[16-Sep-2023 16:46:25 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../koneksi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[16-Sep-2023 16:46:25 Asia/Jakarta] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 16
+[16-Sep-2023 16:46:25 Asia/Jakarta] PHP Warning:  include(https://ciwideyfood.com/gamma2023/?page=penjualan&amp;aksi=report_sales_mingguan): failed to open stream: no suitable wrapper could be found in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 16
+[16-Sep-2023 16:46:25 Asia/Jakarta] PHP Warning:  include(): Failed opening 'https://ciwideyfood.com/gamma2023/?page=penjualan&amp;aksi=report_sales_mingguan' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 16
+[16-Sep-2023 16:46:41 Asia/Jakarta] PHP Warning:  include(../../koneksi/koneksi.php): failed to open stream: No such file or directory in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[16-Sep-2023 16:46:41 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../koneksi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[16-Sep-2023 16:46:41 Asia/Jakarta] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 16
+[16-Sep-2023 16:46:41 Asia/Jakarta] PHP Warning:  include(https://ciwideyfood.com/gamma2023/?page=penjualan&amp;aksi=report_sales_mingguan): failed to open stream: no suitable wrapper could be found in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 16
+[16-Sep-2023 16:46:41 Asia/Jakarta] PHP Warning:  include(): Failed opening 'https://ciwideyfood.com/gamma2023/?page=penjualan&amp;aksi=report_sales_mingguan' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 16
+[16-Sep-2023 16:47:25 Asia/Jakarta] PHP Warning:  include(../../koneksi/koneksi.php): failed to open stream: No such file or directory in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[16-Sep-2023 16:47:25 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../koneksi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[16-Sep-2023 16:47:25 Asia/Jakarta] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 16
+[16-Sep-2023 16:47:25 Asia/Jakarta] PHP Warning:  include(https://ciwideyfood.com/gamma2023/?page=penjualan&amp;aksi=report_sales_mingguan): failed to open stream: no suitable wrapper could be found in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 16
+[16-Sep-2023 16:47:25 Asia/Jakarta] PHP Warning:  include(): Failed opening 'https://ciwideyfood.com/gamma2023/?page=penjualan&amp;aksi=report_sales_mingguan' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 16
+[18-Sep-2023 09:58:08 Asia/Jakarta] PHP Warning:  include(../../koneksi/koneksi.php): failed to open stream: No such file or directory in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[18-Sep-2023 09:58:08 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../koneksi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[18-Sep-2023 09:58:08 Asia/Jakarta] PHP Warning:  include(): https:// wrapper is disabled in the server configuration by allow_url_include=0 in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 16
+[18-Sep-2023 09:58:08 Asia/Jakarta] PHP Warning:  include(https://ciwideyfood.com/gamma2023/?page=penjualan&amp;aksi=report_sales_mingguan): failed to open stream: no suitable wrapper could be found in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 16
+[18-Sep-2023 09:58:08 Asia/Jakarta] PHP Warning:  include(): Failed opening 'https://ciwideyfood.com/gamma2023/?page=penjualan&amp;aksi=report_sales_mingguan' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 16
+[22-Sep-2023 14:49:08 Asia/Jakarta] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 88
+[22-Sep-2023 14:49:08 Asia/Jakarta] PHP Warning:  include(../../koneksi/koneksi.php): failed to open stream: No such file or directory in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[22-Sep-2023 14:49:08 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../koneksi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[22-Sep-2023 14:49:08 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 7
+[22-Sep-2023 14:49:08 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 9
+[22-Sep-2023 14:51:19 Asia/Jakarta] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 88
+[22-Sep-2023 14:51:19 Asia/Jakarta] PHP Warning:  include(../../koneksi/koneksi.php): failed to open stream: No such file or directory in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[22-Sep-2023 14:51:19 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../koneksi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[22-Sep-2023 14:51:19 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 7
+[22-Sep-2023 14:51:19 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 9
+[22-Sep-2023 14:51:23 Asia/Jakarta] PHP Warning:  include(../../koneksi/koneksi.php): failed to open stream: No such file or directory in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[22-Sep-2023 14:51:23 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../koneksi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[22-Sep-2023 14:51:23 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 7
+[22-Sep-2023 14:51:23 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 9
+[22-Sep-2023 14:53:01 Asia/Jakarta] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 88
+[22-Sep-2023 14:53:01 Asia/Jakarta] PHP Warning:  include(../../koneksi/koneksi.php): failed to open stream: No such file or directory in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[22-Sep-2023 14:53:01 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../koneksi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[22-Sep-2023 14:53:01 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 7
+[22-Sep-2023 14:53:01 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 9
+[22-Sep-2023 14:54:09 Asia/Jakarta] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 88
+[22-Sep-2023 14:54:09 Asia/Jakarta] PHP Warning:  include(../../koneksi/koneksi.php): failed to open stream: No such file or directory in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[22-Sep-2023 14:54:09 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../koneksi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[22-Sep-2023 14:54:09 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 7
+[22-Sep-2023 14:54:09 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 9
+[22-Sep-2023 14:54:13 Asia/Jakarta] PHP Warning:  include(../../koneksi/koneksi.php): failed to open stream: No such file or directory in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[22-Sep-2023 14:54:13 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../koneksi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[22-Sep-2023 14:54:13 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 7
+[22-Sep-2023 14:54:13 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 9
+[22-Sep-2023 14:54:47 Asia/Jakarta] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 88
+[22-Sep-2023 14:54:47 Asia/Jakarta] PHP Warning:  include(../../koneksi/koneksi.php): failed to open stream: No such file or directory in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[22-Sep-2023 14:54:47 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../koneksi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 2
+[22-Sep-2023 14:54:47 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 7
+[22-Sep-2023 14:54:47 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 9
+[22-Sep-2023 14:57:47 Asia/Jakarta] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 87
+[22-Sep-2023 14:57:47 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 6
+[22-Sep-2023 14:57:47 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 8
+[22-Sep-2023 15:01:27 Asia/Jakarta] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 87
+[22-Sep-2023 15:01:27 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 6
+[22-Sep-2023 15:01:27 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 8
+[22-Sep-2023 15:02:41 Asia/Jakarta] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 87
+[22-Sep-2023 15:02:41 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 6
+[22-Sep-2023 15:02:41 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 8
+[22-Sep-2023 15:05:09 Asia/Jakarta] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 87
+[22-Sep-2023 15:05:09 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 6
+[22-Sep-2023 15:05:09 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ciww8346/public_html/gamma2023/export/export_penjualan_mingguan.php on line 8
+[29-Sep-2023 15:09:47 Asia/Jakarta] PHP Warning:  include(../../koneksi/koneksi.php): failed to open stream: No such file or directory in /home/ciww8346/public_html/gamma2023/export/template_pos.php on line 2
+[29-Sep-2023 15:09:47 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../koneksi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ciww8346/public_html/gamma2023/export/template_pos.php on line 2
+[29-Sep-2023 15:09:47 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ciww8346/public_html/gamma2023/export/template_pos.php on line 7
+[29-Sep-2023 15:09:47 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ciww8346/public_html/gamma2023/export/template_pos.php on line 9
+[29-Sep-2023 15:11:06 Asia/Jakarta] PHP Warning:  include(../../koneksi/koneksi.php): failed to open stream: No such file or directory in /home/ciww8346/public_html/gamma2023/export/template_pos.php on line 2
+[29-Sep-2023 15:11:06 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../koneksi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ciww8346/public_html/gamma2023/export/template_pos.php on line 2
+[29-Sep-2023 15:11:06 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ciww8346/public_html/gamma2023/export/template_pos.php on line 7
+[29-Sep-2023 15:11:06 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ciww8346/public_html/gamma2023/export/template_pos.php on line 9
+[29-Sep-2023 15:12:10 Asia/Jakarta] PHP Warning:  include(../../koneksi/koneksi.php): failed to open stream: No such file or directory in /home/ciww8346/public_html/gamma2023/export/template_pos.php on line 2
+[29-Sep-2023 15:12:10 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../koneksi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ciww8346/public_html/gamma2023/export/template_pos.php on line 2
+[29-Sep-2023 15:12:10 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ciww8346/public_html/gamma2023/export/template_pos.php on line 7
+[29-Sep-2023 15:12:10 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ciww8346/public_html/gamma2023/export/template_pos.php on line 9
+[29-Sep-2023 15:12:59 Asia/Jakarta] PHP Warning:  include(../../koneksi/koneksi.php): failed to open stream: No such file or directory in /home/ciww8346/public_html/gamma2023/export/template_pos.php on line 2
+[29-Sep-2023 15:12:59 Asia/Jakarta] PHP Warning:  include(): Failed opening '../../koneksi/koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/ciww8346/public_html/gamma2023/export/template_pos.php on line 2
+[29-Sep-2023 15:12:59 Asia/Jakarta] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/ciww8346/public_html/gamma2023/export/template_pos.php on line 7
+[29-Sep-2023 15:12:59 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/ciww8346/public_html/gamma2023/export/template_pos.php on line 9
+[29-Sep-2023 15:33:52 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ciww8346/public_html/gamma2023/export/template_pos.php on line 10
+[29-Sep-2023 15:33:56 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ciww8346/public_html/gamma2023/export/template_pos.php on line 10
+[29-Sep-2023 15:34:17 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ciww8346/public_html/gamma2023/export/template_pos.php on line 10
+[03-Oct-2023 14:40:19 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ciww8346/public_html/gamma2023/export/export_penjualan.php on line 9
+[03-Oct-2023 14:41:26 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ciww8346/public_html/gamma2023/export/export_penjualan.php on line 9
+[03-Oct-2023 14:43:00 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ciww8346/public_html/gamma2023/export/export_penjualan.php on line 9
+[03-Oct-2023 14:43:52 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ciww8346/public_html/gamma2023/export/export_penjualan.php on line 9
+[03-Oct-2023 14:50:32 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ciww8346/public_html/gamma2023/export/export_penjualan.php on line 9
+[03-Oct-2023 14:50:38 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ciww8346/public_html/gamma2023/export/export_penjualan.php on line 9
+[03-Oct-2023 14:50:54 Asia/Jakarta] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/ciww8346/public_html/gamma2023/export/export_penjualan.php on line 9
+[27-Oct-2023 10:34:44 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ciww8346/public_html/gamma2023/export/template_ncs.php:17) in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 79
+[27-Oct-2023 10:34:44 Asia/Jakarta] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/ciww8346/public_html/gamma2023/export/template_ncs.php:17) in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 80
+[27-Oct-2023 13:46:05 Asia/Jakarta] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 53
+[27-Oct-2023 13:46:06 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 65
+[27-Oct-2023 13:46:06 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 65
+[27-Oct-2023 13:46:06 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 65
+[27-Oct-2023 13:46:06 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 65
+[27-Oct-2023 13:46:06 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 65
+[27-Oct-2023 13:46:06 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 65
+[27-Oct-2023 13:46:06 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 65
+[27-Oct-2023 13:46:06 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 65
+[27-Oct-2023 13:46:06 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 65
+[27-Oct-2023 13:46:06 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 65
+[27-Oct-2023 13:46:06 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 65
+[27-Oct-2023 13:46:06 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 65
+[27-Oct-2023 13:46:06 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 65
+[27-Oct-2023 13:46:06 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 65
+[27-Oct-2023 13:46:06 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 65
+[27-Oct-2023 13:46:06 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 65
+[27-Oct-2023 13:46:06 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 65
+[27-Oct-2023 13:46:06 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 65
+[27-Oct-2023 13:46:06 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 65
+[27-Oct-2023 13:46:52 Asia/Jakarta] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 39
+[27-Oct-2023 13:46:52 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 51
+[27-Oct-2023 13:46:52 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 51
+[27-Oct-2023 13:46:52 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 51
+[27-Oct-2023 13:46:52 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 51
+[27-Oct-2023 13:46:52 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 51
+[27-Oct-2023 13:46:52 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 51
+[27-Oct-2023 13:46:52 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 51
+[27-Oct-2023 13:46:52 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 51
+[27-Oct-2023 13:46:52 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 51
+[27-Oct-2023 13:46:52 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 51
+[27-Oct-2023 13:46:52 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 51
+[27-Oct-2023 13:46:52 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 51
+[27-Oct-2023 13:46:52 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 51
+[27-Oct-2023 13:46:52 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 51
+[27-Oct-2023 13:46:52 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 51
+[27-Oct-2023 13:46:52 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 51
+[27-Oct-2023 13:46:52 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 51
+[27-Oct-2023 13:46:52 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 51
+[27-Oct-2023 13:46:52 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 51
+[27-Oct-2023 13:46:52 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 51
+[27-Oct-2023 14:01:05 Asia/Jakarta] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 38
+[27-Oct-2023 14:01:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:05 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:22 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:22 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:22 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:22 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:22 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:22 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:22 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:22 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:22 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:22 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:22 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:22 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:22 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:22 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:22 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:22 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:22 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:22 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:22 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:22 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:22 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:22 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:22 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:22 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:22 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:22 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:22 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:01:22 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:04:01 Asia/Jakarta] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 38
+[27-Oct-2023 14:04:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:04:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:04:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:04:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:04:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:04:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:04:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:04:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:04:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:04:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:04:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:04:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:04:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:04:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:04:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:04:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:04:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:04:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:04:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:04:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:04:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:04:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:04:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:04:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:04:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:04:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:04:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:04:01 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:07:41 Asia/Jakarta] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 38
+[27-Oct-2023 14:07:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 52
+[27-Oct-2023 14:07:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 52
+[27-Oct-2023 14:07:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 52
+[27-Oct-2023 14:07:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 52
+[27-Oct-2023 14:07:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 52
+[27-Oct-2023 14:07:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 52
+[27-Oct-2023 14:07:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 52
+[27-Oct-2023 14:07:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 52
+[27-Oct-2023 14:07:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 52
+[27-Oct-2023 14:07:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 52
+[27-Oct-2023 14:07:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 52
+[27-Oct-2023 14:07:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 52
+[27-Oct-2023 14:07:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 52
+[27-Oct-2023 14:07:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 52
+[27-Oct-2023 14:07:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 52
+[27-Oct-2023 14:07:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 52
+[27-Oct-2023 14:07:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 52
+[27-Oct-2023 14:07:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 52
+[27-Oct-2023 14:07:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 52
+[27-Oct-2023 14:07:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 52
+[27-Oct-2023 14:07:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 52
+[27-Oct-2023 14:07:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 52
+[27-Oct-2023 14:07:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 52
+[27-Oct-2023 14:07:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 52
+[27-Oct-2023 14:07:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 52
+[27-Oct-2023 14:07:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 52
+[27-Oct-2023 14:07:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 52
+[27-Oct-2023 14:07:41 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 52
+[27-Oct-2023 14:44:57 Asia/Jakarta] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 38
+[27-Oct-2023 14:44:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:44:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:44:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:44:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:44:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:44:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:44:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:44:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:44:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:44:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:44:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:44:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:44:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:44:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:44:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:44:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:44:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:44:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:44:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:44:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:44:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:44:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:44:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:44:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:44:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:44:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:44:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:44:57 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:46:31 Asia/Jakarta] PHP Deprecated:  The behavior of unparenthesized expressions containing both '.' and '+'/'-' will change in PHP 8: '+'/'-' will take a higher precedence in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 38
+[27-Oct-2023 14:46:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:46:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:46:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:46:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:46:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:46:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:46:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:46:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:46:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:46:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:46:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:46:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:46:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:46:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:46:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:46:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:46:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:46:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:46:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:46:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:46:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:46:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:46:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:46:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:46:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:46:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:46:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
+[27-Oct-2023 14:46:31 Asia/Jakarta] PHP Warning:  A non-numeric value encountered in /home/ciww8346/public_html/gamma2023/export/template_ncs.php on line 50
