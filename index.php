@@ -234,7 +234,7 @@ if($page==''){
 <div class="container card ">
     <div class="col-md-auto">
 <div>
-    <h3 class="text-center mt-2">Grafik Penjualan Harian CF</h3>
+    <h3 class="text-center mt-2">Grafik Penjualan Harian CF1</h3>
   <canvas id="myChart"></canvas>
 </div>
 
