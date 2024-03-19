@@ -36,7 +36,7 @@ $hari_ini = date('Y-m-d');
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title><?= strtoupper($_SESSION['verifikasi'])?> CF Gamma 2023</title>
+    <title><?= strtoupper($_SESSION['verifikasi'])?> Master Gamma</title>
     <link rel="icon" type="image/x-icon" href="images/gamma.ico">
 
     <script src="//code.jquery.com/jquery-1.11.0.min.js"></script>
